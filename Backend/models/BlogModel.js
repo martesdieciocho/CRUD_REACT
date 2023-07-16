@@ -1,7 +1,7 @@
 //Importando la conexión hecha a la BD
-import db from ('../database/db');
+import db from '../database/db.js';
 //Importando el DataTypes de Sequelize 
-import {DataTypes} from ('sequelize');
+import {DataTypes} from 'sequelize';
 
 
 //Creando modelo para la tabla de la bd
